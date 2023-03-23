@@ -228,7 +228,7 @@ num\_peaks\_df &lt;- num\_peaks\_df\[,1:12\] write\_csv(num\_peaks\_df,
 
 # how to include graphics with knit
 # knitr::include_graphics("picture name")
-![pUCSC comparison] ("hw_results/Class_exercise_pics/hw_shot.png")
+![UCSC comparison] ("hw_results/Class_exercise_pics/hw_shot.png")
 
 ```
 
