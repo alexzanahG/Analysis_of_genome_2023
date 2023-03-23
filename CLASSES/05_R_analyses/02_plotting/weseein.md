@@ -333,7 +333,7 @@ ggplot(num_peaks_df, aes(x = num_peaks,
 #save
 ggsave("hw_results/Class_exercise_pics/peak_num_v_total_coverage.png")
 
-![](/hw_results/Class_exercise_pics/are_they_tfs.png)
+![](are_they_tfs.png)
 
 #big data
 ggplot(big_num_peaks_df, aes(x = num_peaks, 
